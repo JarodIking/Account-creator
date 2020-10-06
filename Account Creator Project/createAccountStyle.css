@@ -1,0 +1,76 @@
+#accountForm{
+    position: relative;
+    height: 500px;
+    width: 300px;
+    border: 1px black solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+}
+
+#account{
+    position: relative;
+    height: 220px;
+    width: 600px;
+    border: 1px black solid;
+    margin-left: 10px;
+    /*box-sizing: border-box;*/
+
+}
+
+#img{
+    position: relative;
+    height: 220px;
+    width: 100px;
+}
+
+#name{
+     position: relative;
+     margin-top: -190px;
+     margin-left: 100px;
+ }
+
+#surname{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#Sex{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#email{
+    position: relative;
+    margin-top: -158px;
+    margin-left: 300px;
+}
+
+#phone{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#city{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#delete{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
+#edit{
+    position: relative;
+    margin-top: -20px;
+    margin-left: 300px;
+    width: 80px;
+}
+
+
